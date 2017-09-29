@@ -8,5 +8,7 @@ run/
 doc/
 .DS_Store
 *.swp
+*.zip
+*.md5
 
 
