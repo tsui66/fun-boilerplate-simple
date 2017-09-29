@@ -1,5 +1,6 @@
 # Hello world
 
+see [fun]() for more https://github.com/aliyun/funinformation such as custom rule.
 ## Installation
 
 You should install dependencies first:
